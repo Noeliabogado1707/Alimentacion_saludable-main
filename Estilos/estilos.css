@@ -641,7 +641,7 @@ ul {
 .my-form input[type="checkbox"] + label {
   position: relative;
   display: inline-block;
-  padding-left: 2rem;
+  padding-left: 4rem;
   transition: trasnform 0.3s cubic-bezier(0.57, 0.21, 0.69, 1.25);
 
 }
